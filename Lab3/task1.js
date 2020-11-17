@@ -1,5 +1,3 @@
-task11();
-
 function task11() {
 	let a = [10,5,13,18,51];
 	printArray(a);
@@ -58,11 +56,3 @@ function task17() {
 	let b = a.slice(-2);
 	printArray(b);
 }
-
-
-
-
-
-
-
-
